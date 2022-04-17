@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+    background-color: gray;
+}
+
+.logo {
+    position: relative;
+    
+}
+
+#menu {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: auto;
+  }
+
+ul {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    list-style:none;
+  }
+
+li {
+    position: relative;
+    float: left;
+    width: auto;
+    height: auto;
+  }
+  
+.lol {
+    display: block;
+    padding: 10px;
+    font-size: 14pt;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    background-color: black;
+    border: 2px solid rosybrown;
+  }
+  
+a:hover {
+    background-color: darkcyan;
+    border-radius: 20px 0px;
+    color: yellow;
+    border: 3px dotted green;
+  }
+
+main {
+  padding:10px;
+  margin:10px;
+  background-color:red;
+}
+
+header, footer {
+  background-color:#FFA07A	;
+  padding:10px;
+  height:99px;
+}
+main{
+  padding:10px;
+  margin:10px;
+  background-color:silver;
+}
+.post{
+  background-color:gray;
+  padding:20px;
+  border-radius:20px;
+  margin-bottom:20px;
+  color: black;
+}
+.post img {
+  margin:20px;
+}
+
+.text {
+    display: inline-block;
+}
+
+.graf {
+    background-color: silver;
+}
+
+.back {
+    background-color: black;
+}
+
+.weider {
+    font-family: Lobster;
+}
+
+.kek {
+    float:right;
+    
+}
